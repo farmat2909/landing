@@ -117,7 +117,7 @@ h4 { font-size:2em; }
 #tobuy:after { content:'Купить билеты'; }
 
 #promotxt, #promotxt button { color:#000000;letter-spacing:0.3px;font-size:16px;line-height:22px; }
-#promotxt { background:#F0F0F0; }
+#promotxt { background:#F0F0F0; margin-bottom: 30px;}
 #promotxt button { text-decoration:underline; }
 
 .link-secondary { text-decoration:none;padding:0 5px;color:#000000;letter-spacing:0.3px;font-size:14px;line-height:22px; }
